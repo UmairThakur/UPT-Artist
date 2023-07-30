@@ -69,7 +69,7 @@ To set your OpenAI API key as an environment variable, you can follow these gene
 Please note that you should treat your API key as sensitive information and avoid sharing it publicly or committing it to version control systems. If you're working on a shared system, it's better to use a more secure method for storing your API key, such as using a secrets manager or configuration file with restricted permissions.
 
 ## **Usage**
-1. After setting up the OpenAI API Key, just download and run the .exe.
+1. After setting up the OpenAI API Key, just download and run the UPT - Artist.exe file from above.
 2. The application window will open, showing a dropdown to select the type of logo and an input field to enter the prompt. 
 4. Select the type of logo you want from the dropdown. If you just want to generate an image you can skip this part and directly enter the prompt.
 5. Enter a prompt that describes your logo/image requirements in the input field.
