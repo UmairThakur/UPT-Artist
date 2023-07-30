@@ -1,11 +1,14 @@
 # **UPT- Artist (Professional Logo and Image Generator)**
-<img width="228" alt="GUI_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/cfe37909-cf65-4a8c-afb6-0eb70cb1a3ac">
+<img width="654" alt="GUI_and_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/9c4543bd-e3b5-4a48-898f-f08175beea46">
 
 ## **Introduction**
 The "Professional Logo Generator" is a Python application that utilizes OpenAI's GPT-3.5 language model to generate logos and images based on user input. It allows users to select the type of logo they want and provide a prompt for the logo/image generation. The application processes the data locally, ensuring data security, and generates a logo/image using the OpenAI API.
 
+<img width="228" alt="GUI_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/cfe37909-cf65-4a8c-afb6-0eb70cb1a3ac">
 <img width="220" alt="logo_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/b61e9096-be6a-415a-a872-b47307aed632">
 <img width="227" alt="image_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/7fb9436b-f9cf-4263-8c36-098eadfd22ed">
+
+##### Please Note: The better the prompt is, the better the image will be.
 
 
 ## **Features**
@@ -66,7 +69,7 @@ To set your OpenAI API key as an environment variable, you can follow these gene
 Please note that you should treat your API key as sensitive information and avoid sharing it publicly or committing it to version control systems. If you're working on a shared system, it's better to use a more secure method for storing your API key, such as using a secrets manager or configuration file with restricted permissions.
 
 ## **Usage**
-1. Run the .exe.
+1. After setting up the OpenAI API Key, just download and run the .exe.
 2. The application window will open, showing a dropdown to select the type of logo and an input field to enter the prompt. 
 4. Select the type of logo you want from the dropdown. If you just want to generate an image you can skip this part and directly enter the prompt.
 5. Enter a prompt that describes your logo/image requirements in the input field.
