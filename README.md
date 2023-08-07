@@ -1,12 +1,13 @@
 # **UPT- Artist (Professional Logo and Image Generator)**
-<img width="654" alt="GUI_and_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/9c4543bd-e3b5-4a48-898f-f08175beea46">
+<img width="654" alt="GUI_and_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/c29cb7f6-64d7-4d60-9296-5e8b14caca0e">
+
 
 ## **Introduction**
 The "Professional Logo Generator" is a Python application that utilizes OpenAI's GPT-3.5 language model to generate logos and images based on user input. It allows users to select the type of logo they want and provide a prompt for the logo/image generation. The application processes the data locally, ensuring data security, and generates a logo/image using the OpenAI API.
 
-<img width="228" alt="GUI_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/cfe37909-cf65-4a8c-afb6-0eb70cb1a3ac">
-<img width="220" alt="logo_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/b61e9096-be6a-415a-a872-b47307aed632">
-<img width="227" alt="image_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/7fb9436b-f9cf-4263-8c36-098eadfd22ed">
+<img width="228" alt="GUI_Image" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/038bb7fb-2e2a-4eda-bd4f-31c053989776">
+<img width="220" alt="logo_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/57540a85-644c-49c7-8ef2-3a44fe5c525d">
+<img width="227" alt="image_ss" src="https://github.com/UmairThakur/UPT-Artist/assets/81063457/8b3acb5b-01d8-45d2-9cc6-005f34b0ac54">
 
 ##### Please Note: The better the prompt is, the better the image will be.
 
